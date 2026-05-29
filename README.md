@@ -162,4 +162,4 @@ See `ALPHA_RELEASE.md` for the full optimization story and roadmap.
 - Inspired by but independent of `stonehearth_performance_mod` (focuses on different hot paths).
 - Built and tested by trial-and-error on a real late-game save.
 
-License: MIT (see LICENSE file or — TODO add one).
+License: MIT
