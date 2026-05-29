@@ -145,12 +145,10 @@ When something breaks, the relevant info to include:
 
 ---
 
-## What's NOT in this version (yet)
+## TODO List
 
 - No in-game UI. All config via `stonehearth.json`.
-- No `hit_with_tail` (path stitching when target moved 8-32 voxels) — cache currently falls back to vanilla in that case.
-- No `exhausted` cache — failed pathfinding is not cached.
-- No multiplayer testing.
+- No Lua GC performance optimization.
 
 ---
 
