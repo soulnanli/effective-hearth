@@ -156,10 +156,4 @@ See `ALPHA_RELEASE.md` for the full optimization story and roadmap.
 
 ---
 
-## Credits
-
-- Source-level analysis assisted by reverse-engineering Stonehearth Lua scripts.
-- Inspired by but independent of `stonehearth_performance_mod` (focuses on different hot paths).
-- Built and tested by trial-and-error on a real late-game save.
-
 License: MIT
