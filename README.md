@@ -152,8 +152,6 @@ When something breaks, the relevant info to include:
 - No `exhausted` cache — failed pathfinding is not cached.
 - No multiplayer testing.
 
-See `ALPHA_RELEASE.md` for the full optimization story and roadmap.
-
 ---
 
 License: MIT
