@@ -1,0 +1,9 @@
+{
+   "info": {
+      "name": "Effective Hearth",
+      "namespace": "effective_hearth",
+      "version": 3
+   },
+
+   "server_init_script": "file(effective_hearth_server)"
+}
